@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HeightCalculator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HeightCalculator_jar</output-path>
+    <root id="archive" name="HeightCalculator.jar">
+      <element id="module-output" name="HeightCalculator" />
+    </root>
+  </artifact>
+</component>
